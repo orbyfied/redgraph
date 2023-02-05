@@ -1,0 +1,4 @@
+rootProject.name = 'redgraph'
+include 'redgraph-minecraft-support'
+include 'redgraph-core'
+

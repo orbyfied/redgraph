@@ -1,11 +1,18 @@
+# Gradle Folder
 .gradle
-/build/
+
+# Build Folders
+build/
+bin/
+
+# IDE
+.idea
 
 # Ignore Gradle GUI config
 gradle-app.setting
 
 # Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
-!gradle-wrapper.jar
+gradle-wrapper.jar
 
 # Cache of project
 .gradletasknamecache
